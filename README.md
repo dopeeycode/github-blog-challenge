@@ -1,6 +1,6 @@
 ## Desafio 03 - Github Blog
 
-Durante este desafio, desenvolvemos uma aplicação que utiliza a API do GitHub para buscar issues de um repositório, dados do perfil e exibir elas como um blog.
+Durante este desafio, desenvolvi um app que utiliza a API do GitHub para buscar issues de um repositório, exibir elas como um blog.
 
 ### 🛠️ Nesse projeto foi utilizado
 
