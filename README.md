@@ -1,27 +1,34 @@
-# React + TypeScript + Vite
+## Desafio 03 - Github Blog
+<img src="https://user-images.githubusercontent.com/71772559/184001699-6ccc6082-3a1e-46ef-b7cc-908667f0d90d.png" align="center" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Durante este desafio, desenvolvemos uma aplicação que utiliza a API do GitHub para buscar issues de um repositório, dados do perfil e exibir elas como um blog.
 
-Currently, two official plugins are available:
+### 🛠️ Nesse projeto foi utilizado
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Vite
+* Styled Components
+* Typescript
+* React Router Dom
+* React Hook Form
+* Axios
+* API do Github
 
-## Expanding the ESLint configuration
+<br />
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+<a href="https://github-blog-gbdev13.vercel.app/" target="_blank">
+<img src="https://user-images.githubusercontent.com/71772559/178192066-d52e0cf7-906e-4baa-80f3-4b49dde153c0.png" />
+</a>
 
-- Configure the top-level `parserOptions` property like this:
+<a href="https://youtu.be/Vn0CbXsUwgQ" target="_blank">
+<img src="https://user-images.githubusercontent.com/71772559/178192139-14eae3e0-490d-412d-a072-8f622f047d2c.png" />
+</a>
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+<a href="/github-blog" target="_blank">
+<img src="https://user-images.githubusercontent.com/71772559/178192378-234b9c46-7e31-47fb-8ddf-245617d8b198.png" />
+</a>
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+<a href="https://www.figma.com/community/file/1138814951106121051" target="_blank">
+<img src="https://user-images.githubusercontent.com/71772559/178192253-4fe4757c-de57-4878-a38c-a483c25670b1.png" />
+</a>
+
+&nbsp;
